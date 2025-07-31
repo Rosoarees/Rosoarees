@@ -1,6 +1,7 @@
 ### Hi  👋
 My nome is 
-Ronaldo Soares Pinto
+Ronaldo Soares 
+
 
 <!--
 **Rosoarees/Rosoarees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
