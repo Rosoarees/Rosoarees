@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  🚀 Estudante de Análise e Desenvolvimento de Sistemas | Full Stack em Formação e mergulhando no universo do desenvolvimento web com os cursos de Front-End e Back-End do Senai. Estou pronto e motivado para encontrar uma oportunidade de estágio onde eu possa contribuir com minha energia, aplicar na prática o que venho aprendendo e ajudar a equipe a resolver desafios reais.
+  🚀 Estudante de Análise e Desenvolvimento de Sistemas | Full Stack (Front-End e Back-End ) em Formação pelo Senai e mergulhando no universo do desenvolvimento web. Estou pronto e motivado para encontrar uma oportunidade de estágio onde eu possa contribuir com minha energia, aplicar na prática o que venho aprendendo e ajudar a equipe a resolver desafios reais.
 </h3>
 
 <p align="center">
