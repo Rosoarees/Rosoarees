@@ -13,22 +13,6 @@
 
 ---
 
-### 📚 **Minha Jornada**
-```java
-public class MinhaTrajetoria {
-  public static void main(String[] args) {
-    String nome = "Ronaldo Soares Pinto";
-    String formacao = "Análise e Desenvolvimento de Sistemas";
-    String[] especializacoes = {"Front-End", "Back-End"};
-    String escola = "Senai";
-    boolean buscandoOportunidades = true;
-    
-    System.out.println("🔥 Apaixonado por resolver problemas através do código");
-    System.out.println("🌱 Atualmente mergulhando em Java e JavaScript");
-    System.out.println("💡 Buscando minha primeira oportunidade no mercado tech");
-  }
-}
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rosoareess?igsh=cWxzcjJwYzNxbjJi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ronaldosoarespinto/) 
