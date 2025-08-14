@@ -53,5 +53,5 @@
 </p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Rosoarees&icon=2&color=5" alt="Contador de Visitas">
+  <img src="https://visitcount.itsvg.in/api?id=Rosoarees" alt="Contador de Visitas">
 </p>
