@@ -52,6 +52,6 @@
   <a href="https://instagram.com/rosoareess?igsh=cWxzcjJwYzNxbjJi"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Rosoarees" alt="Contador de Visitas">
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=Rosoarees&label=Profile%20views&color=0e75b6&style=flat" alt="rosoarees" /> 
 </p>
